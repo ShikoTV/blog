@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+<!--- kaynak: www.kodbul.org ---><p align="center"><marquee width="auto" bgcolor="#000000"><b><font color="#ff0000">SHIKO TV</font></b></marquee></p><!--- kaynak: www.kodbul.org --->
+
+<td height="20" background="http://80.190.202.79/pic/g/gezerdin/bgaa.gif" width="469"><p align="center">
+<font face="Arial"><script>
+
+var mydate=new Date()
+var year=mydate.getYear()
+if (year < 1000)
+year+=1900
+var day=mydate.getDay()
+var month=mydate.getMonth()
+var daym=mydate.getDate()
+if (daym<10)
+daym="0"+daym
+var dayarray=new Array("E Diel","E Hene","E Marte","E Merkure","E Enjte","E Premte","E Shtune")
+var montharray=new Array("Janar","Shkurt","Mars","Prill","Maj","Qershor","Korrik","Gusht","Shtator","Tetor","Nentor","Dhjetor")
+
+myhours = mydate.getHours();
+if (myhours >= 24) {
+myhours = (myhours == 24) ? 24 : myhours - 12; mm = " ";
+}
+else {
+myhours = (myhours == 0) ? 24 : myhours; mm = " ";
+}
+
+myminutes = mydate.getMinutes();
+if (myminutes < 10){
+mytime = ":0" + myminutes;
+}
+else {
+mytime = ":" + myminutes;
+};
+
+document.write("<font color='red' face='Arial' size=1><b>" + myhours + mytime + mm + ", " + dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"</b></font>")
+
+</script></font></p></td>
+
+<img src="https://thumbs.gfycat.com/IndelibleGrossFrilledlizard-size_restricted.gif" width="150" height="100" border="0" alt="Clipart" /></a>
+
+</head>
+<body class="home blog">
+<div id="page" class="hfeed site">
+	
+	<div id="header-top" class="header-bar-wrap">
+		<div id="header-bar" class="header-bar clearfix">
+		</div>
+	</div>
+	<div class="header-main clearfix">
+		<div id="logo" class="site-branding clearfix">
+			<h1 class="site-title"><a href="http://shikotv2019.blogspot.com/" rel="home">SHIKO TV</a></h1>
+			<p class="site-description">
+				🇦🇱INFORMOHU🇦🇱
+			</p>
+		</div>
+		<div class="header-widgets clearfix">
+		</div>
+	</div>
+	<nav id="main-navigation" class="primary-navigation navigation clearfix" role="navigation">
+	<ul id="menu-shiko-tv" class="main-navigation-menu">
+		<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-49"><a href="http://www.google.com/">Google</a></li>
+		<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-46"><a href="https://www.wikipedia.org/">Wikipedia</a></li>
+		<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-45"><a href="https://translate.google.com/">Translate</a></li>
+		<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-47"><a href="https://balkanweb.com/">Balkan Web</a></li>
+		<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-47"><a href="http://top-channel.tv/">Top Channel</a></li>
+                <li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-68"><a href="https://tvklan.al/">Klan TV</a></li>
+                <li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-68"><a href="http://www.panorama.com.al/">Panorama Online</a></li>
+                <li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-68"><a href="https://joqalbania.com/">JOQ Albania</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-68"><a href="https://www.appcreator24.com/app789359/">Shiko TV app Downolad</a>
+
+<!--- kaynak: www.kodbul.org ---><p align="center"><marquee width="auto" bgcolor="#000000"><b><font color="#ff0000">SPORT TV PT</font></b></marquee></p><!--- kaynak: www.kodbul.org --->
+
+
+</li>
+
+	</ul>
+	</nav>
+        </header>
+        <center>
+<a href="https://sportzonline.co/channels/pt/sporttv1.php"><img alt="SportTv1" height="69" src="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png" title="SportTV1" width="170"/></a>
+<br>
+<hr style="border-color:red;">
+<br>
+
+<a href="https://sportzonline.co/channels/pt/sporttv2.php"><img alt="SportTV2" height="69" src="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png" title="SportTV2" width="170"/></a>
+<br>
+<hr style="border-color:red;">
+<br>
+
+<a href="https://sportzonline.co/channels/pt/sporttv3.php"><img alt="SportTV3" height="69" src="https://upload.wikimedia.org/wikipedia/pt/2/2e/Sport.TV3.png" title="SportTV3" width="170"/></a>
+<br>
+<hr style="border-color:red;">
+<br>
+
+<a href="https://sportzonline.co/channels/pt/sporttv4.php"><img alt="SportTV4" height="69" src="https://upload.wikimedia.org/wikipedia/en/e/e4/Sporttv2016.svg" title="SportTV4" width="170"/></a>
+<br>
+<hr style="border-color:red;">
+<br>
+
+<a href="https://sportzonline.co/channels/pt/sporttv5.php"><img alt="SportTV5" height="69" src="https://upload.wikimedia.org/wikipedia/pt/4/43/Sport_TV5.png" title="SportTV5" width="170"/></a>
+<br>
+<hr style="border-color:red;">
+<br>
+
+<!--- kaynak: www.kodbul.org ---><p align="center"><marquee width="auto" bgcolor="#000000"><b><font color="#ff0000">SPORT LIVE</font></b></marquee></p><!--- kaynak: www.kodbul.org --->
+
+<a href="https://sportzonline.co/channels/hd/hd1.php"><img alt="Sky Sports Football" height="69" src="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" title="Sport Live" width="170"/></a>
+<a href="https://sportzonline.co/channels/hd/hd2.php"><img alt="Sky Sports PremierLeague" height="69" src="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" title="Sport Live" width="170"/></a>
+<a href="https://sportzonline.co/channels/hd/hd3.php"><img alt="Sport Live" height="69" src="https://www.radiosport.co.nz/media/15273341/06802_brand_pageimage_livesport.jpg?mode=crop&width=675&height=379&quality=80&scale=both" title="Sport Live" width="170"/></a>
+<a href="https://sportzonline.co/channels/hd/hd4.php"><img alt="Sport Live" height="69" src="https://www.radiosport.co.nz/media/15273341/06802_brand_pageimage_livesport.jpg?mode=crop&width=675&height=379&quality=80&scale=both" title="Sport Live" width="170"/></a>
+<a href="https://sportzonline.co/channels/hd/hd5.php"><img alt="Sport Live" height="69" src="https://www.radiosport.co.nz/media/15273341/06802_brand_pageimage_livesport.jpg?mode=crop&width=675&height=379&quality=80&scale=both" title="Sport Live" width="170"/></a>
+<a href="https://sportzonline.co/channels/hd/hd6.php"><img alt="Sport Live" height="69" src="https://www.radiosport.co.nz/media/15273341/06802_brand_pageimage_livesport.jpg?mode=crop&width=675&height=379&quality=80&scale=both" title="Sport Live" width="170"/></a>
+<a href="https://sportzonline.co/channels/hd/hd7.php"><img alt="Sport Live" height="69" src="https://www.radiosport.co.nz/media/15273341/06802_brand_pageimage_livesport.jpg?mode=crop&width=675&height=379&quality=80&scale=both" title="Sport Live" width="170"/></a>
+<a href="https://sportzonline.co/channels/hd/hd8.php"><img alt="Sport Live" height="69" src="https://www.radiosport.co.nz/media/15273341/06802_brand_pageimage_livesport.jpg?mode=crop&width=675&height=379&quality=80&scale=both" title="Sport Live" width="170"/></a>
+<a href="https://c787898.info/embed.php?id=live1"><img alt="Sport Live" height="69" src="https://www.radiosport.co.nz/media/15273341/06802_brand_pageimage_livesport.jpg?mode=crop&width=675&height=379&quality=80&scale=both" title="Sport Live" width="170"/></a>
+<a href="https://c787898.info/embed.php?id=live2"><img alt="Sport Live" height="69" src="https://www.radiosport.co.nz/media/15273341/06802_brand_pageimage_livesport.jpg?mode=crop&width=675&height=379&quality=80&scale=both" title="Sport Live" width="170"/></a>
+<div style='position: relative; padding-bottom: 56%; height: 0;'><iframe src='//app.viloud.tv/player/embed/video/e703104c7c0914674495d434c4c2cb01?autoplay=1&volume=1&controls=1&title=1&share=1' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' frameborder='0' allowfullscreen></iframe></div><p><a href='https://viloud.tv/video/e703104c7c0914674495d434c4c2cb01'>HBO2</a> on <a href='https://viloud.tv'>Viloud</a></p>
+<a href="https://viloud.tv/video/e703104c7c0914674495d434c4c2cb01"><img alt="ESPN Plus en vivo" height="69" src="logos/espnplus.png" title="ESPN Plus en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/espn-online-por-internet.html"><img alt="ESPN en vivo" height="69" src="logos/espn.png" title="ESPN en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/espn-2-online-por-internet.html"><img alt="ESPN 2 en vivo" height="69" src="logos/espn2.png" title="ESPN 2 en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/espn-3-online-por-internet.html"><img alt="ESPN 3 en vivo" height="69" src="logos/espn3.png" title="ESPN 3 en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/directv-sports-en-vivo.html"><img alt="Directv Sports en vivo" height="69" src="logos/directvsports.png" title="Directv Sports en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/directv-sports-2-en-vivo.html"><img alt="Directv Sports 2 en vivo" height="69" src="logos/directvsports2.png" title="Directv Sports 2 en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/directv-sports-plus-en-vivo.html"><img alt="Directv Sports Plus en vivo" height="69" src="logos/directvsportsplus.png" title="Directv Sports Plus en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/bein-la-liga-en-vivo.html"><img alt="bein la liga en vivo" height="69" src="logos/beinlaliga.png" title="Bein La Liga en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/fox-sports-mexico-en-vivo.html"><img alt="Fox Sports Mexico en vivo" height="69" src="logos/foxsportsmexico.png" title="Fox Sports Mexico en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/fox-sports-2-mexico-en-vivo.html"><img alt="Fox Sports 2 Mexico en vivo" height="69" src="logos/foxsports2mexico.png" title="Fox Sports 2 Mexico en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/fox-sports-3-mexico-en-vivo.html"><img alt="Fox Sports 3 Mexico en vivo" height="69" src="logos/foxsports3mexico.png" title="Fox Sports 3 Mexico en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/espn-mexico-en-vivo.html"><img alt="Espn Mexico en vivo" height="69" src="logos/espnmexico.png" title="Espn Mexico en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/espn-2-mexico-en-vivo.html"><img alt="Espn 2 Mexico en vivo" height="69" src="logos/espn2mexico.png" title="Espn 2 Mexico en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/espn-3-mexico-en-vivo.html"><img alt="Espn 3 Mexico en vivo" height="69" src="logos/espn3mexico.png" title="Espn 3 Mexico en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/hbo-en-vivo.html"><img alt="HBO en vivo" height="69" src="logos/hbo.png" title="HBO en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/hbo-2-en-vivo.html"><img alt="HBO 2 en vivo" height="69" src="logos/hbo2.png" title="hbo 2 en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/fox-premium-action-en-vivo.html"><img alt="Fox Premium Action en vivo" height="69" src="logos/foxpremiumaction.png" title="FOX PREMIUM ACTION en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/fox-premium-series-en-vivo.html"><img alt="Fox Premium Series en vivo" height="69" src="logos/foxpremiumseries.png" title="FOX PREMIUM SERIES en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/space-en-vivo.html"><img alt="Space en vivo" height="69" src="logos/space.png" title="Space en vivo" width="90"/></a>
+<a href="http://www.tv-onlinehd.com/warner-bros-tv-en-vivo.html"><img alt="warnerbrostv en vivo" height="69" src="logos/warnerbrostv.png" title="Warner Bros TV en vivo" width="90"/></a>
+<a 
+<source href="http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8" width="200" height="200"><type="video/mp4">
+     </video>
+<img alt="warnerbrostv en vivo" height="69"
+src="logos/tnt.png" title="TNT en vivo" width="90"/></a>
+
+<!--- kaynak: www.kodbul.org ---><p align="center"><marquee width="auto" bgcolor="#000000"><b><font color="#ff0000">RTSH</font></b></marquee></p><!--- kaynak: www.kodbul.org --->
+
+<a href="https://viloud.tv/video/be6987f3b65cd8ef207c644e9e699163"><img alt="RTSH 24" height="69" src="https://upload.wikimedia.org/wikipedia/commons/8/88/RTSH_24.svg" title="RTSH 24" width="90"/></a>
+<a href="https://viloud.tv/video/7f4668858b8646900d39aba687d0bdcd"><img alt="RTSH 1" height="69" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/RTSH_1_HD.svg" title="RTSH 1" width="90"/></a>
+<a href="https://viloud.tv/video/896c016b11db9e0e3609135a6dfa5f09"><img alt="RTSH 2" height="69" src="https://upload.wikimedia.org/wikipedia/commons/8/86/RTSH_2_HD.svg" title="RTSH 2" width="90"/></a>
+<a href="https://viloud.tv/video/a38877027af7dfcab3020667188287c1"><img alt="RTSH 3" height="69" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/RTSH_3_HD.svg" title="RTSH 3" width="90"/></a>
+<a href="https://viloud.tv/video/3ec28da0e1ae454d68612328d3e83a7"><img alt="RTSH Plus" height="69" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/RTSH_PLUS.svg" title="RTSH Plus" width="90"/></a>
+<a href="https://viloud.tv/video/773745e458d07859ca1e524d3e82eecd"><img alt="RTSH Shqip" height="69" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/RTSH_SHQIP.svg" title="RTSH Shqip" width="90"/></a>
+<a href="https://viloud.tv/video/ba81377f81453f2d8d4bba74b79165d1"><img alt="RTSH Muzik" height="69" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/RTSH_MUZIK%C3%8B.svg" title="RTSH Muzik" width="90"/></a>
+<a href="https://viloud.tv/video/fba518d2e562510d2c1eeeec7f4beddb"><img alt="RTSH Film" height="69" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/RTSH_FILM.svg" title="RTSH Film" width="90"/></a>
+<a href="https://viloud.tv/video/dd122bbe0cd47706baf7bed31eeb7c13"><img alt="RTSH Femije" height="69" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/RTSH_FEMIJE.svg" title="RTSH Femije" width="90"/></a>
+<a href="https://viloud.tv/video/7fdcc8378b73bf4450827d67a178a03a"><img alt="RTSH Sport" height="69" src="https://upload.wikimedia.org/wikipedia/commons/3/30/RTSH_SPORT.svg" title="RTSH Sport" width="90"/></a>
+</center>
+
+	
+<br>
+<hr style="border-color:red;">
+
+<hr style="border-color:red;">
+		<h1 class="entry-title single-entry-title">Shiko TV Informohu per gjithecka </h1>
+<br>
+
+			
+	</div>
+	<footer id="colophon" class="site-footer clearfix" role="contentinfo">
+	<div id="footer-text" class="site-info">
+		<span class="credit-link">© 2019 TV SHIKO TV | TV LIVE</span>
+	</div>
+	</footer>
+</div>
+</body>
+</html>
